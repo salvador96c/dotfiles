@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = salvadormhoc@gmail.com
+	name = Salvador Cabral
